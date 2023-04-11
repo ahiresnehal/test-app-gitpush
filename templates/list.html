@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+ 
+
+<table id="datalist">
+<tr>
+  <th>S No</th>
+  <th>Name</th>
+  <th>Age</th>
+  <th>Email ID</th>
+</tr>
+{% for student in students %}
+<tr>
+  <td>{{ loop.index }}</td>
+  <td>{{ student.name }}</td>
+  <td>{{student.age}}</td>
+  <td>{{student.email}}</td>
+  <td><a href="/replace_student/{{student.name}}-{{student.email}}" type="button" class="button">Update</button>
+    <a href="/delete_student/{{student.name}}-{{student.email}}" type="button" class="button">Delete</button>
+  </td>
+</tr>
+{% endfor %}
+</table>
+</body>
+
+ 
+  </html>
