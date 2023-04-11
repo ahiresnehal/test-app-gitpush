@@ -2,5 +2,5 @@ projectKey=manual-project
 serverUrl=http://3.110.148.161:9000
 serverVersion=9.9.0.65466
 dashboardUrl=http://3.110.148.161:9000/dashboard?id=manual-project
-ceTaskId=AYdwZO1dyPTZIq42WiYh
-ceTaskUrl=http://3.110.148.161:9000/api/ce/task?id=AYdwZO1dyPTZIq42WiYh
+ceTaskId=AYdwZhI_yPTZIq42WiYi
+ceTaskUrl=http://3.110.148.161:9000/api/ce/task?id=AYdwZhI_yPTZIq42WiYi
