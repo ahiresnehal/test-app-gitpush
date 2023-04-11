@@ -1,4 +1,4 @@
-# Two-tier application example
+# Two-tier application example   
 
 Example that shows how to control the order of service startup with Docker Compose.
 
