@@ -30,7 +30,7 @@ spec:
     - name: sec-ctx-vol
       mountPath: /data/demo
     securityContext:
-      allowPrivilegeEscalation: false
+      allowPrivilegeEscalation: False
   - name: demo2
     image: busybox
     args: [/bin/sh, -c,
@@ -38,4 +38,4 @@ spec:
     securityContext:
       # configure security context at container level, instead of pod level
       runAsUser: 2000
-      allowPrivilegeEscalation: false
+      allowPrivilegeEscalation: False
