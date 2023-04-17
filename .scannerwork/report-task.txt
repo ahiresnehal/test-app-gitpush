@@ -2,5 +2,5 @@ projectKey=kubernetes-project
 serverUrl=http://13.232.233.188:9000
 serverVersion=9.9.0.65466
 dashboardUrl=http://13.232.233.188:9000/dashboard?id=kubernetes-project
-ceTaskId=AYeNnYa-kClRGZeWUsSJ
-ceTaskUrl=http://13.232.233.188:9000/api/ce/task?id=AYeNnYa-kClRGZeWUsSJ
+ceTaskId=AYeNy1S2kClRGZeWUsSK
+ceTaskUrl=http://13.232.233.188:9000/api/ce/task?id=AYeNy1S2kClRGZeWUsSK
