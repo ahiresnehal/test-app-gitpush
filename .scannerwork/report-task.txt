@@ -1,6 +1,6 @@
 projectKey=kubernetes-project
-serverUrl=http://13.232.233.188:9000
-serverVersion=9.9.0.65466
-dashboardUrl=http://13.232.233.188:9000/dashboard?id=kubernetes-project
-ceTaskId=AYeNy1S2kClRGZeWUsSK
-ceTaskUrl=http://13.232.233.188:9000/api/ce/task?id=AYeNy1S2kClRGZeWUsSK
+serverUrl=http://192.168.32.47:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://192.168.32.47:9000/dashboard?id=kubernetes-project
+ceTaskId=AYgEc4o28RwBxGbbARsX
+ceTaskUrl=http://192.168.32.47:9000/api/ce/task?id=AYgEc4o28RwBxGbbARsX
